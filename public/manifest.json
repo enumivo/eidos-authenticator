@@ -1,10 +1,10 @@
 {
-  "short_name": "EOSIO-Reference-Authenticator",
-  "name": "EOSIO Reference Authenticator",
+  "short_name": "EIDOS-Authenticator",
+  "name": "EIDOS Authenticator",
   "version": "0.1.1",
   "manifest_version": 2,
   "browser_action": {
-    "default_title": "EOSIO Reference Authenticator"
+    "default_title": "EIDOS Authenticator"
   },
   "options_page": "index.html#options",
   "permissions": ["storage", "tabs", "clipboardWrite"],
